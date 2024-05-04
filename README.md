@@ -1,5 +1,6 @@
+# *WHAT'S NEW?*
 
-[![Build Status](https://travis-ci.org/NERSC/slurm-magic.svg?branch=master)](https://travis-ci.org/NERSC/slurm-magic)
+**The old repository has been archived and has thus ceased development. This causes it to fail with newer versions of Pandas. Here a simple code fix is implemented to solve just that. Enjoy.**
 
 SLURM-MAGIC
 ===========
